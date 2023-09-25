@@ -1,0 +1,11 @@
+dotnet -h (todos los comandos)
+dotnet new -h (ayuda para el new)
+dotnet new list (solucion lista)
+dotnet new sln (Crear solucion)
+dotnet new wedapi -o API
+dotnet new classlib "nombre" (libreria o libreria de clases)
+dotnet sln add ./API/ (adiccionar elementos a la solucion)
+dotnet sln list  (verificar los proyectos asociados a la solucion)
+dotnet dotnet add reference ..\infraestructura\ (entrar a la carpeta y referencias proyectos)
+dotnet tool list --global (visualizar version)
+dotnet tool install --global dotnet-ef (instala dotnet)

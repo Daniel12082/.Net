@@ -1,0 +1,15 @@
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\bin\Debug\net7.0\infraestructura.deps.json
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\bin\Debug\net7.0\infraestructura.dll
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\bin\Debug\net7.0\infraestructura.pdb
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\bin\Debug\net7.0\core.dll
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\bin\Debug\net7.0\core.pdb
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.csproj.AssemblyReference.cache
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.AssemblyInfoInputs.cache
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.AssemblyInfo.cs
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.csproj.CopyComplete
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.dll
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\refint\infraestructura.dll
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\infraestructura.pdb
+C:\Users\APM02-042\Documents\.Net\tiendacampus2023\infraestructura\obj\Debug\net7.0\ref\infraestructura.dll
