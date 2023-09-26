@@ -7,8 +7,8 @@ using core.entities;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace infraestructura.Data
-{
+namespace infraestructura.Data;
+
     public class TiendaCampusContext : DbContext
     {
         public TiendaCampusContext(DbContextOptions options) : base(options)
@@ -24,4 +24,3 @@ namespace infraestructura.Data
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }
-}

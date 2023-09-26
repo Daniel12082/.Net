@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-042\\Documents\\.Net\\tiendacampus2023\\core\\core.csproj": {}
+    "c:\\Users\\APM02-042\\Documents\\NetCore\\tiendacampus2023\\core\\core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-042\\Documents\\.Net\\tiendacampus2023\\core\\core.csproj": {
+    "c:\\Users\\APM02-042\\Documents\\NetCore\\tiendacampus2023\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-042\\Documents\\.Net\\tiendacampus2023\\core\\core.csproj",
+        "projectUniqueName": "c:\\Users\\APM02-042\\Documents\\NetCore\\tiendacampus2023\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "C:\\Users\\APM02-042\\Documents\\.Net\\tiendacampus2023\\core\\core.csproj",
+        "projectPath": "c:\\Users\\APM02-042\\Documents\\NetCore\\tiendacampus2023\\core\\core.csproj",
         "packagesPath": "C:\\Users\\APM02-042\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-042\\Documents\\.Net\\tiendacampus2023\\core\\obj\\",
+        "outputPath": "c:\\Users\\APM02-042\\Documents\\NetCore\\tiendacampus2023\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-042\\AppData\\Roaming\\NuGet\\NuGet.Config"
